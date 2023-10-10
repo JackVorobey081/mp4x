@@ -22,7 +22,7 @@
 **/.jxbrowser-data/
 **/Release*/
 **/Remote*/
-!**/Debug*/
+**/Debug*/
 !**/src/
 !**/source/
 !**/inc*/
