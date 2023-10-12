@@ -34,12 +34,12 @@ int main(void)
     //
     // Initialize CAN0
     //
-    //InitCAN0();
+    InitCAN0();
 
     //
     // Transmit message CAN0
     //
-    //CAN0Transmit();
+    CAN0Transmit();
 
 
     //---------------------------------------------------------------//
